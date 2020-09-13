@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: turquoise;
+}
+
+.navbar{
+    font-family: fantasy;
+    font-size: x-large;
+    overflow: hidden;
+    background-color: lightcyan;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar a{
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.mainLayout{
+    height: 35.6rem;
+}
